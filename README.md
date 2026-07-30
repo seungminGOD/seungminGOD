@@ -215,47 +215,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <br>
 
-
-<!-- ========================= -->
-<!--          CONTACT          -->
-<!-- ========================= -->
-
-<h2 align="center">📫 Contact & Career</h2>
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_JOBKOREA_URL">
-  <img src="https://img.shields.io/badge/JobKorea-Resume-0054A6?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--        RANDOM QUOTE       -->
-<!-- ========================= -->
-
-<h2 align="center">💡 Developer Quote</h2>
-
-<div align="center">
-
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-/>
-
-</div>
-
-<br>
-
 <!-- ========================= -->
 <!--          FOOTER           -->
 <!-- ========================= -->
