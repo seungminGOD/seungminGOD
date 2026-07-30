@@ -203,12 +203,11 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6C63FF"
-  />
-</a>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sr5tkxnwrqrm6gpr743zhswpja&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f">
+  </a>
+</p>
 </div>
 
 <br>
