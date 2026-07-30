@@ -192,17 +192,27 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <!--           GAMING          -->
 <!-- ========================= -->
 
-<h3 align="center">Gaming</h3>
+<h2 align="center">🎮 Gaming</h2>
 
 <div align="center">
 
-<a href="스팀_프로필_주소">
+<a href="YOUR_STEAM_PROFILE_URL">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
-<a href="에픽게임즈_프로필_주소">
-  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white"/>
+
+</div>
+
+<br>
+
+<h3 align="center">Steam Profile</h3>
+
+<div align="center">
+
+<!-- STEAM-START -->
+Steam 정보를 불러오는 중입니다.
+<!-- STEAM-END -->
 
 </div>
 
