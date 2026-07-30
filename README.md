@@ -220,9 +220,9 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <div align="center">
 
-<a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+<a href="https://discord.com/users/337512684725731336">
   <img
-    src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Currently%20learning..."
+    src="https://lanyard.cnrad.dev/api/337512684725731336?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Currently%20learning..."
   />
 </a>
 
