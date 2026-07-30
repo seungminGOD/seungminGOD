@@ -177,6 +177,24 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <br>
 
+
+<!-- ========================= -->
+<!--          SPOTIFY          -->
+<!-- ========================= -->
+
+<h2 align="center">🎵 Spotify</h2>
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sr5tkxnwrqrm6gpr743zhswpja&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f">
+  </a>
+</p>
+</div>
+
+<br>
+
 <!-- ========================= -->
 <!--           GAMING          -->
 <!-- ========================= -->
@@ -197,22 +215,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <br>
 
-<!-- ========================= -->
-<!--          SPOTIFY          -->
-<!-- ========================= -->
-
-<h2 align="center">🎵 Spotify</h2>
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sr5tkxnwrqrm6gpr743zhswpja&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=53b14f">
-  </a>
-</p>
-</div>
-
-<br>
 
 <!-- ========================= -->
 <!--          DISCORD          -->
