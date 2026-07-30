@@ -32,8 +32,8 @@
 ║                                              ║
 ║   Name      : Seungmin                       ║
 ║   Job       : Developer in Progress          ║
-║   Studying  : Python · Git · GitHub           ║
-║   Goal      : 어제보다 성장한 개발자           ║
-║   Status    : 오류와 전투 중                   ║
+║   Studying  : Python · Git · GitHub          ║
+║   Goal      : 어제보다 성장한 개발자          ║
+║   Status    :                                ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
