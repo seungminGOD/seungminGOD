@@ -9,11 +9,6 @@
   src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:6C63FF,50:2563EB,100:00C853&text=Kang%20Seung%20Min&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42"
 />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Electrical+Engineering+Student;Python+Developer;Keep+Learning%2C+Keep+Growing;오늘도+코딩하는+중..."
-  alt=
-/>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Developer-Seungmin-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
