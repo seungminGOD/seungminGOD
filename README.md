@@ -186,7 +186,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <div align="center">
 
 <a href="스팀_프로필_주소">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-76561198035491721?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
 <a href="에픽게임즈_프로필_주소">
