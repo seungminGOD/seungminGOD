@@ -44,9 +44,7 @@
 ║   University : Keimyung University                 ║
 ║   Major      : Electrical Engineering              ║
 ║   Studying   : Python · Git · GitHub               ║
-║   Interests  : Electrical · Programming · Data     ║
-║   Goal       : Growing into a skilled engineer     ║
-║   Status     : Learning every day                   ║
+║   Interests  :                                     ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
