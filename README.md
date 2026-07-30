@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=SEUNGMIN%20GOD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descSize=20"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=KangSeungMin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descSize=20"
 />
 
 <!-- 타이핑 애니메이션 -->
