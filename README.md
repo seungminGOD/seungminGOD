@@ -45,9 +45,9 @@
 ║   Name       : Seungmin                            ║
 ║   University : Keimyung University                 ║
 ║   Major      : Electrical Engineering              ║
-║   Studying   : Python · Git · GitHub                ║
+║   Studying   : Python · Git · GitHub               ║
 ║   Strengths  : Electrical · Office · Communication ║
-║   Goal       : 기술과 개발 역량을 갖춘 엔지니어     ║
-║   Status     : 꾸준히 성장하는 중                    ║
+║   Goal       :                                     ║
+║   Status     :                                     ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
