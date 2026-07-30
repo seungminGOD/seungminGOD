@@ -187,7 +187,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 </div>
 
 <br>
-
 <!-- ========================= -->
 <!--           GAMING          -->
 <!-- ========================= -->
@@ -196,7 +195,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <div align="center">
 
-<a href="YOUR_STEAM_PROFILE_URL">
+<a href="https://steamcommunity.com/profiles/76561198035491721/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
