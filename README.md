@@ -210,7 +210,41 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <div align="center">
 
 <!-- STEAM-START -->
-Steam 정보를 불러오는 중입니다.
+<a href="https://steamcommunity.com/profiles/76561198035491721/">
+<img width="120" src="https://avatars.steamstatic.com/7b62476fd078e770f387f2d0f99b0095e3a2a580_full.jpg"/>
+</a>
+
+## kangga7
+
+🟢 **Status** : 🟢 Online
+
+🎖 **Steam Level** : 53
+
+🎮 **Owned Games** : 294
+
+⏰ **Total Playtime** : 8569.2 hrs
+
+🔥 **Currently Playing** : None
+
+---
+
+### 🔥 Recently Played
+
+- Horizon Walker (2.9 hrs / 2 weeks)
+- Gamble With Your Friends (1.8 hrs / 2 weeks)
+- Drift86 (1.3 hrs / 2 weeks)
+- Brawlhalla (0.5 hrs / 2 weeks)
+- Cyberpunk 2077 (0.0 hrs / 2 weeks)
+
+---
+
+### 🏆 Top Played Games
+
+1. Tom Clancy's Rainbow Six Siege - 1321.6 hrs
+2. Grand Theft Auto V Legacy - 1278.2 hrs
+3. Hunt: Showdown 1896 - 991.9 hrs
+4. Garry's Mod - 673.5 hrs
+5. Grand Theft Auto IV: The Complete Edition - 332.2 hrs
 <!-- STEAM-END -->
 
 </div>
