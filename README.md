@@ -170,7 +170,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/seungminGOD/seungminGOD/output/github-contribution-grid-snake-dark.svg"
 />
 
 </div>
