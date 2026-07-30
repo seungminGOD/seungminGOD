@@ -153,70 +153,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <br>
 
 <!-- ========================= -->
-<!--       GITHUB STATS        -->
-<!-- ========================= -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--          TROPHY           -->
-<!-- ========================= -->
-
-<h2 align="center">🏆 GitHub Trophy</h2>
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-/>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--      ACTIVITY GRAPH       -->
-<!-- ========================= -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
 <!--           SNAKE           -->
 <!-- ========================= -->
 
@@ -227,28 +163,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <img
   src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
 />
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--        SOLVED.AC          -->
-<!-- ========================= -->
-
-<h2 align="center">💻 Algorithm Study</h2>
-
-<div align="center">
-
-<a href="https://solved.ac/profile/YOUR_BOJ_ID">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID"/>
-</a>
-
-<br><br>
-
-<a href="https://solved.ac/profile/YOUR_BOJ_ID">
-  <img src="http://mazandi.herokuapp.com/api?handle=YOUR_BOJ_ID&theme=warm"/>
-</a>
 
 </div>
 
@@ -305,48 +219,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 </a>
 
 </div>
-
-<br>
-
-<!-- ========================= -->
-<!--            GOALS          -->
-<!-- ========================= -->
-
-<h2 align="center">🎯 Current Goals</h2>
-
-<div align="center">
-
-```text
-01. Python 기초 문법 완성하기
-02. Git과 GitHub 사용법 익히기
-03. 알고리즘 문제 꾸준히 풀기
-04. 전기공학과 프로그래밍 연결하기
-05. 직접 만든 프로젝트 GitHub에 기록하기
-```
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--       LEARNING ROADMAP    -->
-<!-- ========================= -->
-
-<h2 align="center">🗺 Learning Roadmap</h2>
-
-```mermaid
-flowchart LR
-    A[Python Basics] --> B[Data Structures]
-    B --> C[Algorithms]
-    C --> D[Projects]
-    D --> E[Portfolio]
-
-    F[Git] --> G[GitHub]
-    G --> D
-
-    H[Electrical Engineering] --> I[Automation]
-    I --> D
-```
 
 <br>
 
