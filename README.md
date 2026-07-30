@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/University-Keimyung%20University-C41230?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location-South%20Korea-003478?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-https://github-readme-stats.vercel.app/api?username={seungminGOD}&show_icons=true&theme=radical
 
 
 </div>
