@@ -88,17 +88,23 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/전기기사-Passed-2563EB?style=for-the-badge&logo=lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/컴퓨터활용능력%201급-Passed-00A86B?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/전기기사-최종%20합격-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/컴퓨터활용능력%201급-최종%20합격-00A86B?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/TOEIC%20Speaking-IH-EF3340?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/전기공사기사-필기%20합격-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/위험물산업기사-필기%20합격-F97316?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/한국사능력검정시험-2급-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/무인멀티콥터-3종-FF9800?style=for-the-badge&logo=dji&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/위험물산업기사-필기%20합격-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOEIC-715점-2C9CD7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOEIC%20Speaking-IH-EF3340?style=for-the-badge"/>
 
 </div>
 
@@ -110,9 +116,12 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 |:---|:---:|
 | 전기기사 | 최종 합격 |
 | 컴퓨터활용능력 1급 | 최종 합격 |
-| TOEIC Speaking | IH |
-| 초경량비행장치 무인멀티콥터 3종 | 취득 |
+| 전기공사기사 | 필기 합격 |
 | 위험물산업기사 | 필기 합격 |
+| 한국사능력검정시험 | 2급 |
+| 초경량비행장치 무인멀티콥터 | 3종 취득 |
+| TOEIC | 715점 |
+| TOEIC Speaking | IH |
 
 </div>
 
