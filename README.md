@@ -137,7 +137,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 </div>
 
@@ -145,7 +145,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,apple"/>
+<img src="https://skillicons.dev/icons?i=windows"/>
 
 </div>
 
