@@ -178,17 +178,19 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <br>
 
 <!-- ========================= -->
-<!--         WAKATIME          -->
+<!--           GAMING          -->
 <!-- ========================= -->
 
-<h2 align="center">⏱ Coding Time</h2>
+<h3 align="center">Gaming</h3>
 
 <div align="center">
 
-<a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact"
-  />
+<a href="스팀_프로필_주소">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</a>
+
+<a href="에픽게임즈_프로필_주소">
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white"/>
 </a>
 
 </div>
