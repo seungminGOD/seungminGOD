@@ -123,24 +123,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 <br>
 
 <!-- ========================= -->
-<!--     LEARNING ROADMAP      -->
-<!-- ========================= -->
-
-<h2 align="center">📚 Learning Roadmap</h2>
-
-<div align="center">
-
-```text
-Python                 ██░░░░░░░░ 20%
-
-산업안전기사           ████████░░ 80%
-
-위험물산업기사         █████░░░░░ 50%
-
-</div>
-
-
-<!-- ========================= -->
 <!--         TECH STACK        -->
 <!-- ========================= -->
 
@@ -282,4 +264,4 @@ Python                 ██░░░░░░░░ 20%
   src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:2563EB,100:6C63FF&height=160&section=footer"
 />
 
-</div>
+</div> github readme 꾸몄는데 더 추가할 거 없냐? 디스코드, waka time 빼고
