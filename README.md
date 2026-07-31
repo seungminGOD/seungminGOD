@@ -44,7 +44,7 @@
 ║   University : Keimyung University                 ║
 ║   Major      : Electrical Engineering              ║
 ║   Studying   : Python · Git · GitHub               ║
-║   Interests  :                                     ║
+║   Interests  : Drone · Camera                      ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
