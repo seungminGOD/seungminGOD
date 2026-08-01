@@ -218,23 +218,23 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : 🟢 Online
+🟢 **Status** : ⚫ Offline
 
 🎖 **Steam Level** : 53
 
 🎮 **Owned Games** : 294
 
-⏰ **Total Playtime** : 8571.4 hrs
+⏰ **Total Playtime** : 8573.0 hrs
 
-🔥 **Currently Playing** : Grand Theft Auto V Enhanced
+🔥 **Currently Playing** : None
 
 ---
 
 ### 🔥 Recently Played
 
+- Grand Theft Auto V Enhanced (3.3 hrs / 2 weeks)
 - Horizon Walker (2.0 hrs / 2 weeks)
 - Gamble With Your Friends (1.8 hrs / 2 weeks)
-- Grand Theft Auto V Enhanced (1.8 hrs / 2 weeks)
 - Drift86 (1.3 hrs / 2 weeks)
 - Brawlhalla (0.5 hrs / 2 weeks)
 - Cyberpunk 2077 (0.0 hrs / 2 weeks)
