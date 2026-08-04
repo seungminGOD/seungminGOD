@@ -218,7 +218,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : 🟢 Online
+🟢 **Status** : ⚫ Offline
 
 🎖 **Steam Level** : 53
 
@@ -226,7 +226,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ⏰ **Total Playtime** : 8580.2 hrs
 
-🔥 **Currently Playing** : Grand Theft Auto V Enhanced
+🔥 **Currently Playing** : None
 
 ---
 
