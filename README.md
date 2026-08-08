@@ -224,7 +224,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎮 **Owned Games** : 294
 
-⏰ **Total Playtime** : 8583.9 hrs
+⏰ **Total Playtime** : 8585.8 hrs
 
 🔥 **Currently Playing** : None
 
@@ -232,7 +232,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Grand Theft Auto V Enhanced (13.7 hrs / 2 weeks)
+- Grand Theft Auto V Enhanced (15.6 hrs / 2 weeks)
 - Gamble With Your Friends (1.8 hrs / 2 weeks)
 - Horizon Walker (1.6 hrs / 2 weeks)
 - Brawlhalla (0.5 hrs / 2 weeks)
