@@ -237,7 +237,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 - Horizon Walker (1.3 hrs / 2 weeks)
 - Brawlhalla (0.5 hrs / 2 weeks)
 - Men of War: Assault Squad 2 (0.2 hrs / 2 weeks)
-- Cyberpunk 2077 (0.0 hrs / 2 weeks)
 
 ---
 
