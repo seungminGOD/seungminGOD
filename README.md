@@ -213,7 +213,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <!-- STEAM-START -->
 <a href="https://steamcommunity.com/profiles/76561198035491721/">
-<img width="120" src="https://avatars.steamstatic.com/7b62476fd078e770f387f2d0f99b0095e3a2a580_full.jpg"/>
+<img width="120" src="https://avatars.steamstatic.com/85da7f0a398a98df749bbd916f2e928e10e1af08_full.jpg"/>
 </a>
 
 ## kangga7
