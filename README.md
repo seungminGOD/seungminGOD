@@ -27,7 +27,10 @@
 
 </div>
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FseungminGOD?color=yellow&label=hits&size=small&base_count=10)](https://myhits.vercel.app)
+
 <br>
+
 
 <!-- ========================= -->
 <!--          ABOUT ME         -->
