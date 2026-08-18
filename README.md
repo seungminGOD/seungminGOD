@@ -221,22 +221,22 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : ⚫ Offline
+🟢 **Status** : 🟢 Online
 
 🎖 **Steam Level** : 53
 
 🎮 **Owned Games** : 294
 
-⏰ **Total Playtime** : 8607.5 hrs
+⏰ **Total Playtime** : 8607.6 hrs
 
-🔥 **Currently Playing** : None
+🔥 **Currently Playing** : Horizon Walker
 
 ---
 
 ### 🔥 Recently Played
 
 - Grand Theft Auto V Enhanced (22.1 hrs / 2 weeks)
-- Horizon Walker (3.8 hrs / 2 weeks)
+- Horizon Walker (3.9 hrs / 2 weeks)
 - Viscera Cleanup Detail (1.6 hrs / 2 weeks)
 - Men of War: Assault Squad 2 (0.5 hrs / 2 weeks)
 
