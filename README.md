@@ -221,15 +221,15 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : 🟢 Online
+🟢 **Status** : 🟡 Away
 
 🎖 **Steam Level** : 53
 
 🎮 **Owned Games** : 294
 
-⏰ **Total Playtime** : 8614.5 hrs
+⏰ **Total Playtime** : 8615.0 hrs
 
-🔥 **Currently Playing** : None
+🔥 **Currently Playing** : Human Fall Flat
 
 ---
 
@@ -238,6 +238,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 - Grand Theft Auto V Enhanced (22.7 hrs / 2 weeks)
 - Horizon Walker (4.0 hrs / 2 weeks)
 - Viscera Cleanup Detail (1.6 hrs / 2 weeks)
+- Human Fall Flat (0.5 hrs / 2 weeks)
 - Men of War: Assault Squad 2 (0.3 hrs / 2 weeks)
 
 ---
