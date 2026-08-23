@@ -235,7 +235,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Grand Theft Auto V Enhanced (23.3 hrs / 2 weeks)
+- Grand Theft Auto V Enhanced (22.0 hrs / 2 weeks)
 - Horizon Walker (4.8 hrs / 2 weeks)
 - Eternal Return (1.7 hrs / 2 weeks)
 - Viscera Cleanup Detail (1.6 hrs / 2 weeks)
