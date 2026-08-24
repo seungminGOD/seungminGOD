@@ -221,13 +221,13 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : 🟢 Online
+🟢 **Status** : ⚫ Offline
 
 🎖 **Steam Level** : 53
 
 🎮 **Owned Games** : 294
 
-⏰ **Total Playtime** : 8618.8 hrs
+⏰ **Total Playtime** : 8619.8 hrs
 
 🔥 **Currently Playing** : None
 
@@ -235,12 +235,14 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Grand Theft Auto V Enhanced (21.6 hrs / 2 weeks)
+- Grand Theft Auto V Enhanced (21.0 hrs / 2 weeks)
 - Horizon Walker (4.8 hrs / 2 weeks)
 - Eternal Return (1.7 hrs / 2 weeks)
 - Viscera Cleanup Detail (1.6 hrs / 2 weeks)
 - Human Fall Flat (1.0 hrs / 2 weeks)
+- World of Tanks (0.7 hrs / 2 weeks)
 - Men of War: Assault Squad 2 (0.3 hrs / 2 weeks)
+- Garry's Mod (0.3 hrs / 2 weeks)
 
 ---
 
@@ -249,7 +251,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 1. Tom Clancy's Rainbow Six Siege - 1321.6 hrs
 2. Grand Theft Auto V Legacy - 1278.2 hrs
 3. Hunt: Showdown 1896 - 991.9 hrs
-4. Garry's Mod - 673.5 hrs
+4. Garry's Mod - 673.8 hrs
 5. Grand Theft Auto IV: The Complete Edition - 332.2 hrs
 <!-- STEAM-END -->
 
