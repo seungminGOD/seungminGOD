@@ -227,16 +227,16 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎮 **Owned Games** : 294
 
-⏰ **Total Playtime** : 8625.7 hrs
+⏰ **Total Playtime** : 8626.5 hrs
 
-🔥 **Currently Playing** : Horizon Walker
+🔥 **Currently Playing** : None
 
 ---
 
 ### 🔥 Recently Played
 
-- Grand Theft Auto V Enhanced (13.1 hrs / 2 weeks)
-- Horizon Walker (6.6 hrs / 2 weeks)
+- Grand Theft Auto V Enhanced (11.6 hrs / 2 weeks)
+- Horizon Walker (6.7 hrs / 2 weeks)
 - Garry's Mod (2.6 hrs / 2 weeks)
 - Eternal Return (1.7 hrs / 2 weeks)
 - Human Fall Flat (1.0 hrs / 2 weeks)
