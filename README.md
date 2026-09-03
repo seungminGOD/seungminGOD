@@ -225,7 +225,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎖 **Steam Level** : 53
 
-🎮 **Owned Games** : 295
+🎮 **Owned Games** : 296
 
 ⏰ **Total Playtime** : 8632.1 hrs
 
