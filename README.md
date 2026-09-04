@@ -240,7 +240,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 - Garry's Mod (2.6 hrs / 2 weeks)
 - Eternal Return (1.7 hrs / 2 weeks)
 - Human Fall Flat (1.0 hrs / 2 weeks)
-- Grand Theft Auto V Enhanced (1.0 hrs / 2 weeks)
+- Grand Theft Auto V Enhanced (0.7 hrs / 2 weeks)
 - World of Tanks (0.7 hrs / 2 weeks)
 - Hunt: Showdown 1896 (0.6 hrs / 2 weeks)
 
