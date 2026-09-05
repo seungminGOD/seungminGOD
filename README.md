@@ -241,7 +241,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 - Grand Theft Auto V Enhanced (0.7 hrs / 2 weeks)
 - World of Tanks (0.7 hrs / 2 weeks)
 - Hunt: Showdown 1896 (0.6 hrs / 2 weeks)
-- Eternal Return (0.4 hrs / 2 weeks)
 
 ---
 
