@@ -227,7 +227,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎮 **Owned Games** : 296
 
-⏰ **Total Playtime** : 8638.9 hrs
+⏰ **Total Playtime** : 8639.6 hrs
 
 🔥 **Currently Playing** : None
 
@@ -236,7 +236,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 ### 🔥 Recently Played
 
 - Horizon Walker (12.8 hrs / 2 weeks)
-- Bodycam (3.5 hrs / 2 weeks)
+- Bodycam (4.2 hrs / 2 weeks)
 - Garry's Mod (2.6 hrs / 2 weeks)
 - World of Tanks (0.7 hrs / 2 weeks)
 - Hunt: Showdown 1896 (0.6 hrs / 2 weeks)
