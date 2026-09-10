@@ -235,10 +235,10 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Horizon Walker (17.6 hrs / 2 weeks)
+- Horizon Walker (17.2 hrs / 2 weeks)
 - Bodycam (4.2 hrs / 2 weeks)
 - Hunt: Showdown 1896 (0.6 hrs / 2 weeks)
-- Garry's Mod (0.5 hrs / 2 weeks)
+- Garry's Mod (0.0 hrs / 2 weeks)
 
 ---
 
