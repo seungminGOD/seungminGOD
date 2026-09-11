@@ -227,7 +227,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎮 **Owned Games** : 296
 
-⏰ **Total Playtime** : 8644.9 hrs
+⏰ **Total Playtime** : 8645.1 hrs
 
 🔥 **Currently Playing** : None
 
@@ -235,7 +235,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Horizon Walker (17.5 hrs / 2 weeks)
+- Horizon Walker (16.8 hrs / 2 weeks)
 - Bodycam (4.2 hrs / 2 weeks)
 
 ---
