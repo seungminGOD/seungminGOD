@@ -89,7 +89,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 <br>
 
-<img src="https://img.shields.io/badge/산업안전기사-필기%20합격-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/산업안전기사-최종%20합격-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/전기공사기사-필기%20합격-F59E0B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/위험물산업기사-필기%20합격-F97316?style=for-the-badge"/>
 
@@ -111,9 +111,9 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 | 자격 및 역량 | 상태 |
 |:---|:---:|
-| 전기기사 |  합격 |
+| 전기기사 | 합격 |
 | 컴퓨터활용능력 1급 |  합격 |
-| 산업안전기사 | 필기 합격 |
+| 산업안전기사 | 합격 |
 | 전기공사기사 | 필기 합격 |
 | 위험물산업기사 | 필기 합격 |
 | 한국사능력검정시험 | 2급 |
