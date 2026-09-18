@@ -221,13 +221,13 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : ⚫ Offline
+🟢 **Status** : 🟢 Online
 
 🎖 **Steam Level** : 53
 
 🎮 **Owned Games** : 295
 
-⏰ **Total Playtime** : 8649.2 hrs
+⏰ **Total Playtime** : 8649.3 hrs
 
 🔥 **Currently Playing** : None
 
