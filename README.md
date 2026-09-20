@@ -221,13 +221,13 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : 🟢 Online
+🟢 **Status** : ⚫ Offline
 
 🎖 **Steam Level** : 53
 
-🎮 **Owned Games** : 295
+🎮 **Owned Games** : 296
 
-⏰ **Total Playtime** : 8652.4 hrs
+⏰ **Total Playtime** : 8653.0 hrs
 
 🔥 **Currently Playing** : None
 
@@ -235,8 +235,9 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Horizon Walker (14.0 hrs / 2 weeks)
-- Bodycam (0.8 hrs / 2 weeks)
+- Horizon Walker (12.7 hrs / 2 weeks)
+- GIRLS' FRONTLINE 2: EXILIUM (0.7 hrs / 2 weeks)
+- Bodycam (0.7 hrs / 2 weeks)
 
 ---
 
