@@ -221,7 +221,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : 🟢 Online
+🟢 **Status** : ⚫ Offline
 
 🎖 **Steam Level** : 53
 
@@ -235,7 +235,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Horizon Walker (8.7 hrs / 2 weeks)
+- Horizon Walker (8.6 hrs / 2 weeks)
 - GIRLS' FRONTLINE 2: EXILIUM (0.8 hrs / 2 weeks)
 - Bodycam (0.1 hrs / 2 weeks)
 
