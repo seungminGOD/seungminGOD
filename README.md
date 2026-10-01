@@ -237,7 +237,6 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 - GIRLS' FRONTLINE 2: EXILIUM (9.4 hrs / 2 weeks)
 - Horizon Walker (6.8 hrs / 2 weeks)
-- Bodycam (0.1 hrs / 2 weeks)
 
 ---
 
