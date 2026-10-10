@@ -227,7 +227,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎮 **Owned Games** : 296
 
-⏰ **Total Playtime** : 8667.8 hrs
+⏰ **Total Playtime** : 8668.5 hrs
 
 🔥 **Currently Playing** : None
 
@@ -235,8 +235,8 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- GIRLS' FRONTLINE 2: EXILIUM (6.4 hrs / 2 weeks)
-- Horizon Walker (0.9 hrs / 2 weeks)
+- GIRLS' FRONTLINE 2: EXILIUM (5.3 hrs / 2 weeks)
+- Horizon Walker (0.8 hrs / 2 weeks)
 - Bodycam (0.2 hrs / 2 weeks)
 
 ---
