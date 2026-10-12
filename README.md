@@ -235,8 +235,8 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- GIRLS' FRONTLINE 2: EXILIUM (3.3 hrs / 2 weeks)
-- Horizon Walker (1.3 hrs / 2 weeks)
+- GIRLS' FRONTLINE 2: EXILIUM (2.8 hrs / 2 weeks)
+- Horizon Walker (1.2 hrs / 2 weeks)
 - Bodycam (0.2 hrs / 2 weeks)
 
 ---
