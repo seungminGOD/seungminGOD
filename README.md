@@ -221,7 +221,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : 🟡 Away
+🟢 **Status** : ⚫ Offline
 
 🎖 **Steam Level** : 53
 
