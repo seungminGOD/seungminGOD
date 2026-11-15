@@ -227,7 +227,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎮 **Owned Games** : 296
 
-⏰ **Total Playtime** : 8680.6 hrs
+⏰ **Total Playtime** : 8682.6 hrs
 
 🔥 **Currently Playing** : None
 
@@ -236,7 +236,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 ### 🔥 Recently Played
 
 - Horizon Walker (6.7 hrs / 2 weeks)
-- SCP: Secret Laboratory (1.8 hrs / 2 weeks)
+- SCP: Secret Laboratory (3.7 hrs / 2 weeks)
 
 ---
 
