@@ -236,7 +236,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 ### 🔥 Recently Played
 
 - SCP: Secret Laboratory (5.0 hrs / 2 weeks)
-- Horizon Walker (4.4 hrs / 2 weeks)
+- Horizon Walker (3.1 hrs / 2 weeks)
 
 ---
 
