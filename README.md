@@ -221,13 +221,13 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ## kangga7
 
-🟢 **Status** : ⚫ Offline
+🟢 **Status** : 🟢 Online
 
 🎖 **Steam Level** : 53
 
 🎮 **Owned Games** : 296
 
-⏰ **Total Playtime** : 8691.3 hrs
+⏰ **Total Playtime** : 8691.9 hrs
 
 🔥 **Currently Playing** : None
 
@@ -235,9 +235,9 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Red Dead Redemption 2 (6.9 hrs / 2 weeks)
+- Red Dead Redemption 2 (7.6 hrs / 2 weeks)
 - SCP: Secret Laboratory (5.0 hrs / 2 weeks)
-- Horizon Walker (2.2 hrs / 2 weeks)
+- Horizon Walker (1.9 hrs / 2 weeks)
 
 ---
 
