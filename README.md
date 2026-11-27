@@ -227,7 +227,7 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 🎮 **Owned Games** : 296
 
-⏰ **Total Playtime** : 8708.1 hrs
+⏰ **Total Playtime** : 8709.0 hrs
 
 🔥 **Currently Playing** : None
 
@@ -235,9 +235,9 @@ Git 및 GitHub를 활용한 코드 관리 방법을 학습하고 있습니다.
 
 ### 🔥 Recently Played
 
-- Red Dead Redemption 2 (23.7 hrs / 2 weeks)
+- Red Dead Redemption 2 (24.6 hrs / 2 weeks)
 - SCP: Secret Laboratory (5.0 hrs / 2 weeks)
-- Horizon Walker (1.7 hrs / 2 weeks)
+- Horizon Walker (0.5 hrs / 2 weeks)
 
 ---
 
